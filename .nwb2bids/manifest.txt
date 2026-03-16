@@ -1,0 +1,15 @@
+dandiset.yaml
+dataset_description.json
+participants.tsv
+participants.json
+derivatives/dataset_description.json
+sub-NA/sub-NA_sessions.tsv
+sub-NA/sub-NA_sessions.json
+sub-NA/ses-001_140709RP_A1/icephys/sub-NA_ses-001_140709RP_A1_icephys.json
+sub-NA/ses-001_140709RP_A1/icephys/sub-NA_ses-001_140709RP_A1_probes.tsv
+sub-NA/ses-001_140709RP_A1/icephys/sub-NA_ses-001_140709RP_A1_probes.json
+sub-NA/ses-001_140709RP_A1/icephys/sub-NA_ses-001_140709RP_A1_channels.tsv
+sub-NA/ses-001_140709RP_A1/icephys/sub-NA_ses-001_140709RP_A1_channels.json
+sub-NA/ses-001_140709RP_A1/icephys/sub-NA_ses-001_140709RP_A1_electrodes.tsv
+sub-NA/ses-001_140709RP_A1/icephys/sub-NA_ses-001_140709RP_A1_electrodes.json
+sub-NA/ses-001_140709RP_A1/icephys/sub-NA_ses-001_140709RP_A1_icephys.nwb

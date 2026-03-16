@@ -1,0 +1,2 @@
+name	probe_name	x	y	z	hemisphere	impedance	shank_id	location
+Electrode 1	MultiClamp 700B	n/a	n/a	n/a	n/a	n/a	n/a	"{""Anatomical_Location"": ""Brain"", ""Brain_Hemisphere"": ""right"", ""Brain_Area"": ""Somatosensory areas"", ""Cell_Position_X"": -852.0, ""Cell_Position_Y"": 740.0, ""Cell_Position_Z"": -86.0, ""Cell_Position_Reference_X"": null, ""Cell_Position_Reference_Y"": null, ""Cell_Position_Reference_Z"": ""Surface of slice""}"

@@ -1,0 +1,17 @@
+{
+    "Name": "Example intracellular ephys data from LNMC & BBP",
+    "BIDSVersion": "1.10",
+    "HEDVersion": "8.3.0",
+    "Description": "This is a single session showing example intracellular electrophysiology data collected at the Laboratory of Neural Microcircuitry, EPFL. This session holds a variety of different stimulation patterns. \n\nIt also serves as an example of the hierarchy of metadata tables (/general/intracellular_ephys/) and groups (/data_organization) storing sweeps of a complex experimental protocol.\n\nLoad this file in pynwb with load_namespaces = True.\n",
+    "DatasetType": "raw",
+    "Authors": null,
+    "License": "CC-BY-4.0",
+    "GeneratedBy": [
+        {
+            "Name": "nwb2bids",
+            "Version": "0.9.1.dev27+gf0fb7253c",
+            "Description": "Tool to reorganize NWB files into a BIDS directory layout.",
+            "CodeURL": "https://github.com/con/nwb2bids"
+        }
+    ]
+}
