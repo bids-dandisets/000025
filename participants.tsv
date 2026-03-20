@@ -1,2 +1,2 @@
-participant_id	species	sex
-sub-NA	Rattus norvegicus	male
+participant_id	original_participant_id	species	sex
+sub-NA	sub-NA	Rattus norvegicus	male
