@@ -4,7 +4,7 @@
     "HEDVersion": "8.3.0",
     "Description": "This is a single session showing example intracellular electrophysiology data collected at the Laboratory of Neural Microcircuitry, EPFL. This session holds a variety of different stimulation patterns. \n\nIt also serves as an example of the hierarchy of metadata tables (/general/intracellular_ephys/) and groups (/data_organization) storing sweeps of a complex experimental protocol.\n\nLoad this file in pynwb with load_namespaces = True.\n",
     "DatasetType": "raw",
-    "Authors": null,
+    "Authors": ["Dichter", "Benjamin K."],
     "License": "CC-BY-4.0",
     "GeneratedBy": [
         {
